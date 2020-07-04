@@ -1,12 +1,14 @@
 
 pasta:;/home/mateus/PROGRAMACAO/fabricas-de-scripts/script-movimentacao-arquivos/movimentacao_com_espacos
 tipo:;Não IDs
-Quantidade de arquivos;Arquivo;Nome do arquivos;Tamanho[GB];Extensao
+Quantidade de arquivos;Arquivo;Nome do arquivo;Tamanho [GB];Extensao;Observacao
 1;oi.txt;oi;0.0002002;txt
-2;arquivo com espaco.txt;arquivo com espaco;0.0000000;txt
+2;arquivo com espaco.txt;arquivo com espaco;0.0003336;txt
 3;asdf;asdf;0.0009342;n/a
 4;arquivo.txt;arquivo;0.0001335;txt
 5;as.txt;as;0.0018016;txt
 6;abcd.txt;abcd;0.0038034;txt
 7;12w34.txt;12w34;0.0000667;txt
-8;98 76 54.txt;98 76 54;0.0000000;txt
+8;98 76 54.txt;98 76 54;0.0058719;txt
+
+Soma total de arquivos [GB]:;.0131451
