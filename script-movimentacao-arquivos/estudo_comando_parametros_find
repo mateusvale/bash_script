@@ -1,0 +1,22 @@
+-mmin
+	- verá quando houver alguma modificação no arquivo. Por exemplo, usando o vi para modificar o conteudo;
+	- se eu acessar o conteudo, ou abrindo apenas o conteudo, eu nao irei conseguir ver
+	- se ele foi copiado de algum conteudo, esse arquivo eu também nao verei, pois ele não foi modificado, apenas copiado
+	- se eu mudar de nome eu nao conseguirei ver também	
+	
+-amin
+	- verá quando esse conteúdo for acessado. Por exemplo, abrindo o conteudo com um vi ou com outra aplicação
+	- verá o arquivo se ele foi copiado de um local para o local onde se fez o comando
+	- verá o arquivo se ele foi copiado do local da pasta onde se fez o comando para um outro local externo
+	- se mudar o nome do conteudo vc nao verá essa mudança
+
+-cmin
+
+	- verá quando mudar de nome do conteudo
+	- verá quando mudar alguma permissao
+	- verá quando modificador o conteudo tambem
+	- verá quando for um novo arquivo na pasta
+	- não verá quando o conteudo for acessado
+	- nao verá quando o arquivo foi copiado para algum local
+
+

@@ -1,0 +1,9 @@
+oi.txt
+arquivo com espaco.txt
+asdf
+arquivo.txt
+as.txt
+abcd.txt
+12w34.txt
+98 76 54.txt
+A quantidade de arquivos são 8

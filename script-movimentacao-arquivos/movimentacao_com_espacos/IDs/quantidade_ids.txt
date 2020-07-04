@@ -1,0 +1,6 @@
+12.txt
+1234.txt
+501234.txt
+55555
+123456.txt
+A quantidade de arquivos são 5
